@@ -1,0 +1,2138 @@
+fileFormatVersion: 2
+guid: e784195bb366b7840b1c0017c58937e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6784159091879377173
+    second: playersprites_armless_0
+  - first:
+      213: 180904450094164795
+    second: playersprites_armless_1
+  - first:
+      213: -5413510418087942309
+    second: playersprites_armless_2
+  - first:
+      213: 398336140969976932
+    second: playersprites_armless_3
+  - first:
+      213: 4605068926821650415
+    second: playersprites_armless_4
+  - first:
+      213: -8694284237426875096
+    second: playersprites_armless_5
+  - first:
+      213: -6006101230852365112
+    second: playersprites_armless_6
+  - first:
+      213: -6742792074125269612
+    second: playersprites_armless_7
+  - first:
+      213: -8188875498666438643
+    second: playersprites_armless_8
+  - first:
+      213: 2108137237894236249
+    second: playersprites_armless_9
+  - first:
+      213: 7816083294724584052
+    second: playersprites_armless_10
+  - first:
+      213: -4174209582779918788
+    second: playersprites_armless_11
+  - first:
+      213: -8583472151685745371
+    second: playersprites_armless_12
+  - first:
+      213: -3390715074663717845
+    second: playersprites_armless_13
+  - first:
+      213: -1256997888887445151
+    second: playersprites_armless_14
+  - first:
+      213: -989264941901125538
+    second: playersprites_armless_15
+  - first:
+      213: -2530046289902394402
+    second: playersprites_armless_16
+  - first:
+      213: -6576009595717471137
+    second: playersprites_armless_17
+  - first:
+      213: -7543066137799442425
+    second: playersprites_armless_18
+  - first:
+      213: 8141625099503352382
+    second: playersprites_armless_19
+  - first:
+      213: 3763707460230033299
+    second: playersprites_armless_20
+  - first:
+      213: 5978910895724073092
+    second: playersprites_armless_21
+  - first:
+      213: -5580744732762470436
+    second: playersprites_armless_22
+  - first:
+      213: -5746755080179453229
+    second: playersprites_armless_23
+  - first:
+      213: 4312408142283179118
+    second: playersprites_armless_24
+  - first:
+      213: 7097453865477252348
+    second: playersprites_armless_25
+  - first:
+      213: -5051530365016062758
+    second: playersprites_armless_26
+  - first:
+      213: -1550360852397875131
+    second: playersprites_armless_27
+  - first:
+      213: -3742161185599176310
+    second: playersprites_armless_28
+  - first:
+      213: 191518136642212124
+    second: playersprites_armless_29
+  - first:
+      213: 5729760581190145109
+    second: playersprites_armless_30
+  - first:
+      213: 5599045612363767955
+    second: playersprites_armless_31
+  - first:
+      213: -4031322796315252709
+    second: playersprites_armless_32
+  - first:
+      213: 3231313892378118226
+    second: playersprites_armless_33
+  - first:
+      213: -8067021384954031192
+    second: playersprites_armless_34
+  - first:
+      213: -4742927302378298919
+    second: playersprites_armless_35
+  - first:
+      213: -4597929362650363455
+    second: playersprites_armless_36
+  - first:
+      213: -971615979649695357
+    second: playersprites_armless_37
+  - first:
+      213: -3591032473370559295
+    second: playersprites_armless_38
+  - first:
+      213: -5628095998597888304
+    second: playersprites_armless_39
+  - first:
+      213: -962350570921434605
+    second: playersprites_armless_40
+  - first:
+      213: 3010106959369839481
+    second: playersprites_armless_41
+  - first:
+      213: 1733030140235943266
+    second: playersprites_armless_42
+  - first:
+      213: -5086028700492934707
+    second: playersprites_armless_43
+  - first:
+      213: 6816299670393976364
+    second: playersprites_armless_44
+  - first:
+      213: -6402875587517572098
+    second: playersprites_armless_45
+  - first:
+      213: 150509861485026632
+    second: playersprites_armless_46
+  - first:
+      213: -4413332240269508425
+    second: playersprites_armless_47
+  - first:
+      213: -7503909917694195890
+    second: playersprites_armless_48
+  - first:
+      213: 4926887551209480848
+    second: playersprites_armless_49
+  - first:
+      213: -277052785487145629
+    second: playersprites_armless_50
+  - first:
+      213: -7268824843926905074
+    second: playersprites_armless_51
+  - first:
+      213: 1082605591214997838
+    second: playersprites_armless_52
+  - first:
+      213: -1545247231904385301
+    second: playersprites_armless_53
+  - first:
+      213: -740588966134290797
+    second: playersprites_armless_54
+  - first:
+      213: -9180867499900823197
+    second: playersprites_armless_55
+  - first:
+      213: -4411624835987855756
+    second: playersprites_armless_56
+  - first:
+      213: -3325323244522154235
+    second: playersprites_armless_57
+  - first:
+      213: -3696159747307212170
+    second: playersprites_armless_58
+  - first:
+      213: -6335795812103988690
+    second: playersprites_armless_59
+  - first:
+      213: -9213409456291835118
+    second: playersprites_armless_60
+  - first:
+      213: 59944890880709981
+    second: playersprites_armless_61
+  - first:
+      213: -6379775278181112593
+    second: playersprites_armless_62
+  - first:
+      213: -4392956407828209597
+    second: playersprites_armless_63
+  - first:
+      213: -3242233813507081138
+    second: playersprites_armless_64
+  - first:
+      213: 3196219746576768783
+    second: playersprites_armless_65
+  - first:
+      213: -5709955800879429368
+    second: playersprites_armless_66
+  - first:
+      213: 8691999145305953853
+    second: playersprites_armless_67
+  - first:
+      213: -2145759402161223244
+    second: playersprites_armless_68
+  - first:
+      213: -2580807851004565621
+    second: playersprites_armless_69
+  - first:
+      213: 7406802324812326405
+    second: playersprites_armless_70
+  - first:
+      213: -7257845724668969264
+    second: playersprites_armless_71
+  - first:
+      213: -7963727391236536082
+    second: playersprites_armless_72
+  - first:
+      213: -442646528898179248
+    second: playersprites_armless_73
+  - first:
+      213: 3378953818310329282
+    second: playersprites_armless_0
+  - first:
+      213: 7987311754170411351
+    second: playersprites_armless_1
+  - first:
+      213: -2201271499283949283
+    second: playersprites_armless_2
+  - first:
+      213: -5208444723425880111
+    second: playersprites_armless_3
+  - first:
+      213: 1144390654310215135
+    second: playersprites_armless_4
+  - first:
+      213: -3915902916179282080
+    second: playersprites_armless_5
+  - first:
+      213: -4753064951253358739
+    second: playersprites_armless_6
+  - first:
+      213: -4824606151455551092
+    second: playersprites_armless_7
+  - first:
+      213: -8203897830309172835
+    second: playersprites_armless_8
+  - first:
+      213: 3097414885205872292
+    second: playersprites_armless_9
+  - first:
+      213: 5681995758788466869
+    second: playersprites_armless_10
+  - first:
+      213: 8280463210487876987
+    second: playersprites_armless_11
+  - first:
+      213: -7749481538719523334
+    second: playersprites_armless_12
+  - first:
+      213: -7815585796902144242
+    second: playersprites_armless_13
+  - first:
+      213: 6041353823958242465
+    second: playersprites_armless_14
+  - first:
+      213: 8619720668872699292
+    second: playersprites_armless_15
+  - first:
+      213: -4399425327619587013
+    second: playersprites_armless_16
+  - first:
+      213: -6442867450419961289
+    second: playersprites_armless_17
+  - first:
+      213: 7353375651796179834
+    second: playersprites_armless_18
+  - first:
+      213: 959345740123505197
+    second: playersprites_armless_19
+  - first:
+      213: 7144855368099421690
+    second: playersprites_armless_20
+  - first:
+      213: -3688488863981460784
+    second: playersprites_armless_21
+  - first:
+      213: -3844997906919412775
+    second: playersprites_armless_22
+  - first:
+      213: 7355459545384058661
+    second: playersprites_armless_23
+  - first:
+      213: -7033733596310373790
+    second: playersprites_armless_24
+  - first:
+      213: 2460335078844038107
+    second: playersprites_armless_25
+  - first:
+      213: -6787041718703510191
+    second: playersprites_armless_26
+  - first:
+      213: -7407291393595320081
+    second: playersprites_armless_27
+  - first:
+      213: -9166789198079811622
+    second: playersprites_armless_28
+  - first:
+      213: -4306934645708314260
+    second: playersprites_armless_29
+  - first:
+      213: 8715961109064945961
+    second: playersprites_armless_30
+  - first:
+      213: 4958481167418604730
+    second: playersprites_armless_31
+  - first:
+      213: -3379725786188037419
+    second: playersprites_armless_32
+  - first:
+      213: -4281855661250242632
+    second: playersprites_armless_33
+  - first:
+      213: 5416475972208839548
+    second: playersprites_armless_34
+  - first:
+      213: -1415824202032470598
+    second: playersprites_armless_35
+  - first:
+      213: 7149080052185693382
+    second: playersprites_armless_36
+  - first:
+      213: -2176071338974576972
+    second: playersprites_armless_37
+  - first:
+      213: 8169915775657409144
+    second: playersprites_armless_38
+  - first:
+      213: 1796536838903232837
+    second: playersprites_armless_39
+  - first:
+      213: 5825217793114540055
+    second: playersprites_armless_40
+  - first:
+      213: -7320810310211780636
+    second: playersprites_armless_41
+  - first:
+      213: 5086959786152233316
+    second: playersprites_armless_42
+  - first:
+      213: 7548184935927379002
+    second: playersprites_armless_43
+  - first:
+      213: -2434238068858660210
+    second: playersprites_armless_44
+  - first:
+      213: 8055884131494946307
+    second: playersprites_armless_45
+  - first:
+      213: -1725539865887155751
+    second: playersprites_armless_46
+  - first:
+      213: -5591215313491401966
+    second: playersprites_armless_47
+  - first:
+      213: 4541747569349719687
+    second: playersprites_armless_48
+  - first:
+      213: 5242826108761819830
+    second: playersprites_armless_49
+  - first:
+      213: 4866670590207418301
+    second: playersprites_armless_50
+  - first:
+      213: 5844529044593974893
+    second: playersprites_armless_51
+  - first:
+      213: -5514797538191718273
+    second: playersprites_armless_52
+  - first:
+      213: -6466245003191610993
+    second: playersprites_armless_53
+  - first:
+      213: 7158859855007651043
+    second: playersprites_armless_54
+  - first:
+      213: 4392526449074409093
+    second: playersprites_armless_55
+  - first:
+      213: -855170388630594022
+    second: playersprites_armless_56
+  - first:
+      213: 7215671665594066033
+    second: playersprites_armless_57
+  - first:
+      213: 6476671748776652980
+    second: playersprites_armless_58
+  - first:
+      213: 2912060340058840734
+    second: playersprites_armless_59
+  - first:
+      213: -4919901460701931652
+    second: playersprites_armless_60
+  - first:
+      213: -5092098161012144728
+    second: playersprites_armless_61
+  - first:
+      213: 484717874534786823
+    second: playersprites_armless_62
+  - first:
+      213: 5649420315460611844
+    second: playersprites_armless_63
+  - first:
+      213: -704894374115619737
+    second: playersprites_armless_64
+  - first:
+      213: 1796572157508042874
+    second: playersprites_armless_65
+  - first:
+      213: -3215594365973358412
+    second: playersprites_armless_66
+  - first:
+      213: 4338556307124661965
+    second: playersprites_armless_67
+  - first:
+      213: -3440171830368921119
+    second: playersprites_armless_68
+  - first:
+      213: 3070153005110335911
+    second: playersprites_armless_69
+  - first:
+      213: 3076291847252001336
+    second: playersprites_armless_70
+  - first:
+      213: 3459675038393100935
+    second: playersprites_armless_71
+  - first:
+      213: -5710257060936113526
+    second: playersprites_armless_72
+  - first:
+      213: 6104407656982980165
+    second: playersprites_armless_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: playersprites_armless_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 754
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c346d4689474ee20800000000000000
+      internalID: 3378953818310329282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 751
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75921a9c8b1a8de60800000000000000
+      internalID: 7987311754170411351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 753
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d191df6fb338371e0800000000000000
+      internalID: -2201271499283949283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 755
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d751fb9e13e7b7b0800000000000000
+      internalID: -5208444723425880111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 761
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddef62ac31b1ef00800000000000000
+      internalID: 1144390654310215135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 759
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067b73a8b0be7a9c0800000000000000
+      internalID: -3915902916179282080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 670
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d672f221c98b90eb0800000000000000
+      internalID: -4753064951253358739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 670
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81d351644e8b0db0800000000000000
+      internalID: -4824606151455551092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 668
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99e2d2b366e52e80800000000000000
+      internalID: -8203897830309172835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 673
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae04b26d6a3cfa20800000000000000
+      internalID: 3097414885205872292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 672
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8dcd1c9018ade40800000000000000
+      internalID: 5681995758788466869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 677
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d02dc0b6d1ae270800000000000000
+      internalID: 8280463210487876987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 679
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afddc2b599f447490800000000000000
+      internalID: -7749481538719523334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 679
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e073f006026798390800000000000000
+      internalID: -7815585796902144242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 592
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a49a7f5b4337d350800000000000000
+      internalID: 6041353823958242465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 592
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9def3377466f9770800000000000000
+      internalID: 8619720668872699292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 592
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34c06349f912f2c0800000000000000
+      internalID: -4399425327619587013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 591
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732aaca80365696a0800000000000000
+      internalID: -6442867450419961289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 591
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b515902307c0660800000000000000
+      internalID: 7353375651796179834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 596
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2288d82ed7405d00800000000000000
+      internalID: 959345740123505197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_20
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 598
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afddb1b2a10a72360800000000000000
+      internalID: 7144855368099421690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_21
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 602
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2a660bbeadfccc0800000000000000
+      internalID: -3688488863981460784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 513
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dba2fb76c2d3aac0800000000000000
+      internalID: -3844997906919412775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 514
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f7f525c77d31660800000000000000
+      internalID: 7355459545384058661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 522
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a703b7f88236e90800000000000000
+      internalID: -7033733596310373790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 514
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb7ee208bdd42220800000000000000
+      internalID: 2460335078844038107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 518
+        width: 44
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5016431, y: 0.9984525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dabe024859fc1a0800000000000000
+      internalID: -6787041718703510191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_27
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 517
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe851f819b3043990800000000000000
+      internalID: -7407291393595320081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 515
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf9095cac509c080800000000000000
+      internalID: -9166789198079811622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 391
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69abb342c1ba34c0800000000000000
+      internalID: -4306934645708314260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 395
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9219fe5137055f870800000000000000
+      internalID: 8715961109064945961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 394
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc3371c95010d440800000000000000
+      internalID: 4958481167418604730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 397
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2c804dd4dc811d0800000000000000
+      internalID: -3379725786188037419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 399
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b71fab56fac394c0800000000000000
+      internalID: -4281855661250242632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_34
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 386
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b42f1f2303b2b40800000000000000
+      internalID: 5416475972208839548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_35
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 386
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5247db36bf95ce0800000000000000
+      internalID: -1415824202032470598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 399
+        width: 43
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccfb551e62a63360800000000000000
+      internalID: 7149080052185693382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 275
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bef28285aa0dc1e0800000000000000
+      internalID: -2176071338974576972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 274
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a7be4ac1f516170800000000000000
+      internalID: 8169915775657409144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 281
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549fabc8cb49ee810800000000000000
+      internalID: 1796536838903232837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 287
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71880e138b457d050800000000000000
+      internalID: 5825217793114540055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_41
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 289
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef3fc76fc1476a90800000000000000
+      internalID: -7320810310211780636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 282
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690d4049f2889640800000000000000
+      internalID: 5086959786152233316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 272
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f7ec053a80c860800000000000000
+      internalID: 7548184935927379002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 273
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a52fe9f59d73ed0800000000000000
+      internalID: -2434238068858660210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 179
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30666798fef3ccf60800000000000000
+      internalID: 8055884131494946307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9550062a6ad08e0800000000000000
+      internalID: -1725539865887155751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 179
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213ee90cb430862b0800000000000000
+      internalID: -5591215313491401966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 180
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7867592e957870f30800000000000000
+      internalID: 4541747569349719687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 214
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba44e7719242c840800000000000000
+      internalID: 5242826108761819830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 214
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf5728fd13e98340800000000000000
+      internalID: 4866670590207418301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_51
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 214
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e1a7e4330fb1150800000000000000
+      internalID: 5844529044593974893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 214
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7842ef8bd08773b0800000000000000
+      internalID: -5514797538191718273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_53
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 214
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f819e12ed684346a0800000000000000
+      internalID: -6466245003191610993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 174
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4198edb11695360800000000000000
+      internalID: 7158859855007651043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_55
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e8697688365fc30800000000000000
+      internalID: 4392526449074409093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_56
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 97
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e9d3bff03d124f0800000000000000
+      internalID: -855170388630594022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e59b4627332460800000000000000
+      internalID: 7215671665594066033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_58
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f3a004a2c1e950800000000000000
+      internalID: 6476671748776652980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_59
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 97
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ed5b55377b96820800000000000000
+      internalID: 2912060340058840734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 124
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c779fe030bff8bbb0800000000000000
+      internalID: -4919901460701931652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_61
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 126
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5837f93bb3559b0800000000000000
+      internalID: -5092098161012144728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_62
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 127
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707ade7b6501ab600800000000000000
+      internalID: 484717874534786823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_63
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 127
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa7e158d5c66e40800000000000000
+      internalID: 5649420315460611844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_64
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 113
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ccaaa2d46b736f0800000000000000
+      internalID: -704894374115619737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_65
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 113
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70cf9dcbd4bee810800000000000000
+      internalID: 1796572157508042874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_66
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 112
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8196a06f9ef53d0800000000000000
+      internalID: -3215594365973358412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_67
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 112
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce223489f5a53c30800000000000000
+      internalID: 4338556307124661965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_68
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 106
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e91e8472fd0240d0800000000000000
+      internalID: -3440171830368921119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_69
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 108
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a913bb44ef5b9a20800000000000000
+      internalID: 3070153005110335911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 108
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832c2ecd22f21ba20800000000000000
+      internalID: 3076291847252001336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_71
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 108
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae4b50e1c330030800000000000000
+      internalID: 3459675038393100935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_72
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82acb2157711c0b0800000000000000
+      internalID: -5710257060936113526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersprites_armless_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54625a6eb6637b450800000000000000
+      internalID: 6104407656982980165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

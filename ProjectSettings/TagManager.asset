@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Room3
+  - Room0
+  - Room1
+  - Room2
+  - Bullet
+  - PlayerBullet
+  - Room4
+  - Walker
+  - Flyer
+  - Turret
+  - HPSlider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Platforms
+  - Ladders
+  - Enemies
+  - Player
+  - Collectibles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Space
+    uniqueID: 3233399883
+    locked: 0
+  - name: Background
+    uniqueID: 2982415239
+    locked: 0
+  - name: Midground
+    uniqueID: 2734658659
+    locked: 0
+  - name: Boss
+    uniqueID: 1158431919
+    locked: 0
+  - name: BossGuns
+    uniqueID: 1481327243
+    locked: 0
+  - name: Foreground
+    uniqueID: 2566415731
+    locked: 0
+  - name: Ladders
+    uniqueID: 2569262495
+    locked: 0
+  - name: Enemies
+    uniqueID: 620564267
+    locked: 0
+  - name: Player
+    uniqueID: 2021096135
+    locked: 0
+  - name: Decorations
+    uniqueID: 3588232219
+    locked: 0
+  - name: Frontmost
+    uniqueID: 3817503907
+    locked: 0
